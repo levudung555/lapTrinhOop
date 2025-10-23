@@ -55,7 +55,7 @@ public class Test {
 
             switch (choice) {
                 case 1:
-                    System.out.println("\n📌 Danh sách máy tính:");
+                    System.out.println(" Danh sách máy tính:");
                     for (Computer c : computers) System.out.println(c);
                     break;
 

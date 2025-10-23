@@ -4,6 +4,7 @@ public class SinhVien {
     private  int age;
     private  double diemTB;
     public SinhVien() {
+        
     }
 
     public SinhVien(String maSV, String name, int age, double diemTB) {
